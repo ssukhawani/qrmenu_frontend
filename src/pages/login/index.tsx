@@ -1,10 +1,11 @@
 import React from 'react'
+import MainLayout from '../../layouts/main-layout'
 
 function Login() {
     return (
-        <div>
+        <MainLayout>
             Login
-        </div>
+        </MainLayout>
     )
 }
 
